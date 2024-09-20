@@ -1,0 +1,19 @@
+{
+  "description": "all techniques used by an APT group with phrase 'bear' in the group aliases",
+  "version": "2.1",
+  "name": "*Bear APTs",
+  "domain": "mitre-enterprise",
+  "techniques": [
+    {
+      "color": "#ff6666",
+      "comment": "used by Cozy Bear",
+      "techniqueID": "T1071"
+    },
+  ],
+  "legendItems": [
+    {
+      "label": "has 'bear' in group aliases",
+      "color": "#ff6666"
+    }
+  ]
+}
